@@ -1,10 +1,10 @@
 /*!
  * 
  *   typed.js - A JavaScript Typing Animation Library
- *   Author: Ausaf Hussain
+ *   Author: Matt Boldt <me@mattboldt.com>
  *   Version: v2.0.11
- *   Url: https://github.com/Ausaf-pro/typeWriter.js/typed.js
- *   License(s): Ausaf-pro
+ *   Url: https://github.com/mattboldt/typed.js
+ *   License(s): MIT
  * 
  */
 (function webpackUniversalModuleDefinition(root, factory) {
